@@ -1,0 +1,34 @@
+Tarea 3,,,,
+Alumna: Victoria Yeme,,,,
+,,,,
+Frecuencia con la que realizo Danza ,,,,
+Recopilación en bitacora física.,,,,
+,,,,
+Recopilación de datos:,,,,
+Lunes: 1 hora de 19:00 a 20:00,,,,
+"Martes: 1 hora y 30 minutos, de 20:30 a 22:00",,,,
+Miercóles: nada,,,,
+"Jueves: 1 hora y 30 minutos, de 20:30 a 22:00",,,,
+Viernes: nada,,,,
+Sábado: 1 hora de 12:30 a 13:30,,,,
+,,,,
+Los primeros 10 minutos calentamiento,,,,
+"Luego, 20 minutos de clases técnica",,,,
+"El resto, ensayar coreografía",,,,
+,,,,
+Tablas en CSV:,,,,
+Día,Duración,Horario,,
+Lunes,1 hora,19:00 - 20:00,,
+Martes,1 hora,20:30 - 21:30,,
+Miércoles,Nada,,,
+Jueves,1 hora,20:30 - 21:30,,
+Viernes,Nada,,,
+Sábado,1 hora,12:30 - 13:30,,
+,,,,
+Día,Duración Total,Calentamiento,Clases Técnicas,Ensayo Coreografía
+Lunes,1 hora,10 minutos,20 minutos,30 minutos
+Martes,1 hora y 30 minutos,10 minutos,20 minutos,1 hora
+Miércoles,Nada,N/A,N/A,N/A
+Jueves,1 hora y 30 minutos,10 minutos,20 minutos,1 hora
+Viernes,Nada,N/A,N/A,N/A
+Sábado,1 hora,10 minutos,20 minutos,30 minutos
